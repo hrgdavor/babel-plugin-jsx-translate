@@ -1,0 +1,6 @@
+{
+  "retainLines": true,
+  "presets": ["env"],
+  "plugins": [],
+  "ignore": ["node_modules"]
+}

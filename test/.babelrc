@@ -1,0 +1,9 @@
+{
+  "retainLines": true,
+  "presets": ["env"],
+  "plugins": [
+  	"babel-plugin-jsx-simple",
+  	["../index",{staticTranslation:true}]
+  ],
+  "ignore": ["node_modules"]
+}
