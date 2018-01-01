@@ -2,7 +2,8 @@
 
 > Less visual noise in code for translations inside JSX
 
-Can be combined with [babel-plugin-jsx-simple](https://github.com/hrgdavor/babel-plugin-jsx-simple)
+Can be combined with [babel-plugin-jsx-simple](https://github.com/hrgdavor/babel-plugin-jsx-simple),
+[babel-plugin-jsx-inject](https://github.com/hrgdavor/babel-plugin-jsx-inject)
 and probably could be used with other JSX like React or VueJS.
 
 ### Plugin
